@@ -1,0 +1,4 @@
+pandas==1.1.4
+numpy==1.19.4
+watermark==2.2.0
+fastbook==0.0.16
